@@ -7,7 +7,7 @@ Bindass is an scalable makeup E-commerce platform where the user can come and pl
 1. Faizan Akhtar (Team-Lead)
 2. Vishal Tandle
 3. Sumit Kumar
-4. Sushant
+4. Kumar Sushant Shekhar
 5. Omkar 
 
 
